@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poroslav
 - 👀 I’m interested in C++, JS, Machine Learning
 - 🌱 I’m currently learning C++ Standard Library :)
-- 📫 How to reach me: probably will add this later
+- 📫 How to reach me: poroslavdev@gmail.com
 - ⚡ Fun fact: Foobar is a dog name)
 
 <!---
